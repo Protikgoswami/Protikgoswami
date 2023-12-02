@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Protik Goswami</h1>
 <h3 align="center">Computer Science Engineering Student</h3>
-<img align="right"alt="coding"width="350"src="[[https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif](https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif))">
+<img align="right"alt="coding"width="350"src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=protikgoswamicse&label=Profile%20views&color=0e75b6&style=flat" alt="protikgoswamicse" /> </p>
 
 
