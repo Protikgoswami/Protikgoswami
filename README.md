@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Protik Goswami</h1>
 <h3 align="center">Computer Science Engineering Student</h3>
 <img align="right"alt="coding"width="350"src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=protikgoswamicse&label=Profile%20views&color=0e75b6&style=flat" alt="protikgoswamicse" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=protikgoswami&label=Profile%20views&color=0e75b6&style=flat" alt="protikgoswamicse" /> </p>
 
 
 
